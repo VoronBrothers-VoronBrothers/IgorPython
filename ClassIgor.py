@@ -1,5 +1,5 @@
 class Igor:
-    'The Igor class is created for teaching of junior students'
+    'The Igor class is created for teaching of junior students Code add'
     name = 'Igor'
     age = 28
     tall = 175
