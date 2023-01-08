@@ -20,3 +20,9 @@ class Igor:
 
     def vb2(self):
         print('Function of class')
+
+
+    def git(self):
+        self.gita = "Git"
+        self.haba = "Hub"
+        print(self.gita, self.haba)
